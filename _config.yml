@@ -1,6 +1,6 @@
 name: atlas
 favicon: null
-layout_spectrum: 0.32922
+layout_spectrum: 0.3662
 typography_spectrum: 0.23011
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0c0e0d'
     - '#ffffff'
-    - '#91c1ff'
-    - '#3d69d4'
-    - '#870c1e'
-  brandStrength: 0.375
-  lightness: 0.375
-  saturation: 0.625
+    - '#d1cac2'
+    - '#939290'
+    - '#1e2106'
+    - '#615346'
+  brandStrength: 0.4375
+  lightness: 0.75
+  saturation: 0.8125
   rhythmicContrast: 0.25
 purpose: []
