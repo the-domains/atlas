@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[atlas]]></title>
         <description><![CDATA[atlas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atlas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 02:59:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Dec 2015 02:59:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atlas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Awesome interior of this cool bentley bus.]]></title>
+            <description><![CDATA[<article><h1>Awesome interior of this cool bentley bus.</h1><p>The Bentley Bus</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/514f1c9a47843abc1cd7600e6d9cf8ca2fbb5193.jpg"></article>]]></description>
+            <link>https://thegrid.ai/atlas/awesome-interior-of-this-cool-bentley-bus/index.html</link>
+            <guid isPermaLink="false">d1d60969-42e2-4fc0-ad30-e12c68b4c267</guid>
+            <pubDate>Mon, 14 Dec 2015 02:58:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Close enough.]]></title>
             <description><![CDATA[<article><h1>Close enough.</h1><p>Justin Bieber</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37334ba827ba11f48657669d80f7c1f11edfce7e.jpg"></article>]]></description>
-            <link>undefinedclose-enough/index.html</link>
+            <link>https://thegrid.ai/atlas/close-enough/index.html</link>
             <guid isPermaLink="false">ec48f7c4-63af-47a3-a7d5-3081e78a3aa4</guid>
             <pubDate>Mon, 14 Dec 2015 02:58:43 GMT</pubDate>
         </item>
